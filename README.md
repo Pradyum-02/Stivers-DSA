@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
