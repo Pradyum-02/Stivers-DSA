@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0001-two-sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0219-contains-duplicate-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
