@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String Matching
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1025-divisor-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
