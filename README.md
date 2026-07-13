@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0009-palindrome-number) |
+| [0371-sum-of-two-integers](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1025-divisor-game) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
