@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1025-divisor-game) |
 ## Queue
 |  |
