@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0509-fibonacci-number) |
@@ -133,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1025-divisor-game) |
 ## Queue
