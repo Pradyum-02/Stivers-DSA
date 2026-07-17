@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -149,4 +152,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pradyum-02/Stivers-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
