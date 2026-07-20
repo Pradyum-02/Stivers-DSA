@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0055-jump-game) |
+| [0136-single-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0217-contains-duplicate) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
