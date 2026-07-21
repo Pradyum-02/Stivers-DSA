@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1207-unique-number-of-occurrences) |
