@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
