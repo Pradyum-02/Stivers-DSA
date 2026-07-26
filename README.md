@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1025-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
