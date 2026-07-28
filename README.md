@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1480-running-sum-of-1d-array) |
