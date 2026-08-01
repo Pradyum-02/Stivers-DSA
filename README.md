@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1089-duplicate-zeros) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
