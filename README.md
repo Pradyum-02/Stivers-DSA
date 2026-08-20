@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0875-koko-eating-bananas](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
