@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Pradyum-02/Stivers-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Pradyum-02/Stivers-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
