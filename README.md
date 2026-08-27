@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1089-duplicate-zeros) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String Matching
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1025-divisor-game) |
