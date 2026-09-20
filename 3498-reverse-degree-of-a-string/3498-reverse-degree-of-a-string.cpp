@@ -1,3 +1,7 @@
+// int value = 26 - (s[i] - 'a');
+// ans += value * (i + 1);
+// used these 2 formulas
+
 class Solution {
 public:
     int reverseDegree(string s) {
