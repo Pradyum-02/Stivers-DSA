@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0402-remove-k-digits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
@@ -375,4 +377,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pradyum-02/Stivers-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
