@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0796-rotate-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pradyum-02/Stivers-DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -381,8 +382,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0402-remove-k-digits) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0402-remove-k-digits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
