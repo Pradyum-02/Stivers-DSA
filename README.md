@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0645-set-mismatch) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0191-number-of-1-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0912-sort-an-array) |
