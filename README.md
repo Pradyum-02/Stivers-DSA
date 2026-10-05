@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1688-count-of-matches-in-tournament](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pradyum-02/Stivers-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Pradyum-02/Stivers-DSA/tree/master/3870-count-commas-in-range) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Pradyum-02/Stivers-DSA/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/Pradyum-02/Stivers-DSA/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
